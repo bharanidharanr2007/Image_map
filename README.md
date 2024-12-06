@@ -217,12 +217,13 @@ MEDICAL NEETUG
 ```
 # OUTPUT
 
-![alt text](<Screenshot (10).png>) 
-![alt text](<Screenshot (11).png>) 
-![alt text](<Screenshot (12).png>) 
-![alt text](<Screenshot (13).png>) 
-![alt text](<Screenshot (14).png>)
-![alt text](<Screenshot (15).png>) 
+![Screenshot (10)](https://github.com/user-attachments/assets/565e5d3a-8da8-4024-87d4-e0b5ebf76f20)
+![Screenshot (11)](https://github.com/user-attachments/assets/261ee569-c70f-45f8-a7df-b4281d8d1f94)
+![Screenshot (12)](https://github.com/user-attachments/assets/6f958068-a98f-4ced-b852-6dbf46aacbaa)
+![Screenshot (13)](https://github.com/user-attachments/assets/4f67900c-1653-4f32-8228-c9155b110494)
+![Screenshot (14)](https://github.com/user-attachments/assets/863a1eab-5219-4884-bc66-4a69dab4f242)
+![Screenshot (15)](https://github.com/user-attachments/assets/e4d7d1ae-2558-431e-98a0-45a140b5945a)
+
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
